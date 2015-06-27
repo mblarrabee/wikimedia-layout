@@ -1,1 +1,47 @@
+body{
+	margin:0;
+	padding:10px 145px;
+}
+.toptxt{
+	font-family:arial;
+	font-size:20px;
+	line-height:1.5;
+	text-align:justify;
+}
+a:link, a:visited{
+	color:#065CC4;
+}
+a{
+	text-decoration:none;
 
+}
+a:hover{
+	text-decoration:underline;
+}
+.welcome{
+	text-align:right;
+}
+.row{
+	display:flex;
+
+	justify-content:space-between;
+	margin:30px 0px;
+}
+
+.sizing{
+	height:110px;
+	margin:auto 0;
+
+}
+.dividingline{
+	border-top:solid #989D99 1px;
+	padding:5px;
+
+	margin-bottom:10px;
+}
+.bottomtxt{
+	font-family:sans-serif;
+	font-size:13px;
+	line-height:0.5;
+	text-align:center;
+}
